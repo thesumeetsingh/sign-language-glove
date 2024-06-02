@@ -2,6 +2,7 @@
 A glove with sensors which converts the sign made by the person to text.
 Sign Language Glove
 This repository contains the code and instructions for building a sign language glove using an Arduino Uno board and flex sensors. The glove translates hand gestures into text, helping users communicate in sign language.
+![image](https://github.com/thesumeetsingh/sign-language-glove/assets/148633096/922a101d-7c98-427d-9667-f3d82ea593dc)
 
 ## Table of Contents
 - Introduction
