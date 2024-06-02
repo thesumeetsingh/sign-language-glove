@@ -26,6 +26,7 @@ The Sign Language Glove project aims to assist individuals in communicating usin
 - Resistors (as required for the flex sensors)
 
 ## Circuit Diagram
+![image](https://github.com/thesumeetsingh/sign-language-glove/assets/148633096/5e11b35a-3113-4f8a-96c6-d91dd3b8a52b)
 
 ## Setup and Installation
 - 1. Assemble the Circuit: Connect the flex sensors to the analog pins (A0 to A4) of the Arduino Uno. Ensure the sensors are properly fitted onto the fingers of the glove.
